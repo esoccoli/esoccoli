@@ -1,28 +1,20 @@
 # Ella Soccoli
 
-2nd year Game Design and Development student at Rochester Institute of Technology. Interested in a wide variety of areas of programming. 
+I am a 3rd year Game Design and Development & CIT double major at RIT. I am also a member of Computer Science House, where I am the Devcade project director, a Constitutional Maintainer, a Webmaster, and the secretary. I am interested in a wide variety of areas within computing, and am always interested in learning new things and working on projects.
 
-## Experience
+## Co-ops
+### Software Engineer @ Liberty Mutual - Summer 2024
+Developed a web application using ReactJS and JavaScript to facilitate the process of reserving company resources.
 
-__Programming Intern at SJ Associates__
-
-Developed web pages in ASP.NET to display tables from the database in the internal website. Learned how to write SQL queries to get data from a database.
+### Data Engineer @ SJ Associates - Summer 2023
+Wrote SQL queries to display data from the company database in a variety of contexts, and created web pages to display this data in an easy to understand user interface.
 
 ## Projects
+### CSH Conditional
+Working with a team of other members of CSH to rewrite the central membership portal with a more modern tech stack, make the codebase more maintainable, fix existing issues, and add new features to enhance functionality and usability
 
-__Devcade Website__
-
-Developed a website to display information about Computer Science House's custom arcade cabinet project, Devcade. Used Reactjs and Typescript to create the pages, and made calls to an external API to display and modify various information in the project database.
-
-__Brick Breaker__
-
-Implemented a recreation of Atari Breakout using the MonoGame framework for C# to upload to CSH's Devcade project.
+### Devcade
+Active contributor to CSH's custom open source arcade cabinet project, which provides developers with a platform to develop and play games. I have contributed to various aspects of the projects, including the menu software that acts as the game launcher, the public facing website, and have developed a game for the platform
 
 ## Skills
-C#, HTML, CSS, ReactJS, JavaScript, TypeScript, C++, Rust, Java, Python, LaTeX, MonoGame, ASP.NET, SQL, git, vim, Unity, Linux, VS Code, Visual Studio
-
-## Activities
-
-__Computer Science House__
-
-House Secretary, Constitutional Rewrite Director, and Active Member
+C#, Java, Python, HTML, CSS, JavScript, TypeScript, React, NodeJS, Unity, Linux, C++, SQL, MySQL, PostgreSQL, Docker, Git, Vim, Zsh, ASP.Net, MonoGame, MS Access
